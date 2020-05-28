@@ -13,7 +13,7 @@ class Post
   end
 
   def author_name
-    @author ? @author.name : nill
+    @author ? @author.name : nil
   end
 
 end
